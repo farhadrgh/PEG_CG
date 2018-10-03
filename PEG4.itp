@@ -1,0 +1,38 @@
+; PEG CG SYSTEM
+; Containing PEG4 CG model
+;
+; last updated 16-jul-2018
+;
+; please cite:
+;
+; “Optimizing Protein-Polymer Interactions in a Poly(ethylene glycol) Coarse-Grained Model”
+; Ramezanghorbani, F.; Lin, P.;Colina, C. M.
+; J. Phys. Chem. B, 2018 
+; DOI: 10.1021/acs.jpcb.8b05359
+;
+; "A Coarse-Grained MARTINI Model of Polyethylene Glycol and of Polyoxyethylene Alkyl Ether Surfactants"
+; Rossi, G.; Fuchs, P. F. J.; Barnoud, J.; Monticelli, L.
+; J. Phys. Chem. B 2012, 116, 14353-14362
+;
+;
+[moleculetype]
+;name	exclusions
+PEG4            1
+
+[atoms]
+1	SNP	1	PEG4	O1    	1	0.000	;
+2	SNP	1	PEG4	O1  	2	0.000	;	
+3	SNP	1	PEG4	O1  	3	0.000	;	
+4	SNP	1	PEG4	O1  	4	0.000	; 
+
+[ bonds ]
+1	2	1	0.32200	7000	;	
+2	3	1	0.32200	7000	;	
+3	4	1	0.32200	7000	;	
+
+[angles]
+1	2	3	2	122.00 	400 ;	
+2	3	4	2	122.00 	400	;	
+
+[dihedrals]
+1  2  3  4     3    -2.73235989      4.37322998     -0.11301000     -3.63837004      0.90266800      1.14602995
