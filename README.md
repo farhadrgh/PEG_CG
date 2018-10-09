@@ -6,4 +6,3 @@ Ramezanghorbani, F.; Lin, P.;Colina, C. M. “Optimizing Protein-Polymer Interac
 
 http://forcefield-database.org/
 
-<iframe style="width: 500px; height: 300px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&bg=white"></iframe>
