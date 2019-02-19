@@ -1,4 +1,5 @@
-# PEG/PEO Coarse-grained model optimized for protein-polymer interactions
+# PEG/PEO Coarse-grained model 
+Optimized for protein-polymer interactions
 
 <img src="PEG-CG.png" width="300">
 
