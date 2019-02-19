@@ -1,5 +1,7 @@
 PEG/PEO Coarse-grained model optimized for protein-polymer interactions
 
+<img src="PEG-CG.png" width="300">
+
 More information:
 
 Ramezanghorbani, Farhad, Ping Lin, and Coray M. Colina. "Optimizing Protein–Polymer Interactions in a Poly (ethylene glycol) Coarse-Grained Model." The Journal of Physical Chemistry B 122, no. 33 (2018): 7997-8005.
